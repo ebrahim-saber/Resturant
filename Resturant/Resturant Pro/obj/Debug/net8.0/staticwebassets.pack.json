@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Resturant Pro.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Resturant Pro.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\bruschetta.png",
+      "PackagePath": "staticwebassets\\images\\bruschetta.png"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-1\\4bddfe1c-9ca9-4495-b505-07f403cb13b7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\4bddfe1c-9ca9-4495-b505-07f403cb13b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-1\\ee3c0527-a7f8-4df4-a2d9-ebc2c95b6f4d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\ee3c0527-a7f8-4df4-a2d9-ebc2c95b6f4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-2\\04afd7ad-cbb2-415b-ab3b-67969ac5cd29.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\04afd7ad-cbb2-415b-ab3b-67969ac5cd29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-2\\6985b79b-3780-476b-b0de-81660571b515.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\6985b79b-3780-476b-b0de-81660571b515.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-2\\95226cd4-cb46-48e6-ab23-ff8d7d782246.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\95226cd4-cb46-48e6-ab23-ff8d7d782246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-3\\059df8c1-c684-41ea-a0b6-f9c2f7f7f440.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\059df8c1-c684-41ea-a0b6-f9c2f7f7f440.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-3\\4ad658b3-8dc6-45d0-b10e-53f1c7c35eae.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\4ad658b3-8dc6-45d0-b10e-53f1c7c35eae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-3\\4c83cfda-6c60-4ff4-a0da-85187db2fd82.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\4c83cfda-6c60-4ff4-a0da-85187db2fd82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-4\\4acc63c1-9023-448c-ad06-bbca196320ec.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\4acc63c1-9023-448c-ad06-bbca196320ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-4\\ee5eccab-c37b-4af3-a637-3e81a9ab29a4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\ee5eccab-c37b-4af3-a637-3e81a9ab29a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-5\\16e4892d-db59-4897-a733-c4f58f30340f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\16e4892d-db59-4897-a733-c4f58f30340f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-5\\e313d11e-70ce-4197-89b9-d08f64115ed5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\e313d11e-70ce-4197-89b9-d08f64115ed5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-6\\7c46a264-ebea-4c1a-867f-f75e7c35ea83.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\7c46a264-ebea-4c1a-867f-f75e7c35ea83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\images\\products\\product-6\\a71f98d1-be99-45f8-8526-a5e709835559.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\a71f98d1-be99-45f8-8526-a5e709835559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ibrah\\Desktop\\Test\\Resturant Pro\\Resturant Pro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resturant Pro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Resturant Pro.props",
+      "PackagePath": "build\\Resturant Pro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Resturant Pro.props",
+      "PackagePath": "buildMultiTargeting\\Resturant Pro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Resturant Pro.props",
+      "PackagePath": "buildTransitive\\Resturant Pro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

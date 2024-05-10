@@ -1,0 +1,61 @@
+﻿@model List<Resturant_pro.Models.Product>
+
+<div class="card shadow border-0 my-4">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3">
+        <div class=" row">
+            <div class="col-12 text-center">
+                <h1 class="text-white py-2"> Product</h1>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pt-4">
+
+
+            <div class="col-6 text-primary">
+                <h3> List Product</h3>
+            </div>
+            <div class=" col-6 text-end ">
+                <a asp-controller="Product" asp-action="UpSert" class="btn btn-primary">
+                    <i class="bi bi-plus"></i> Add New Product
+                </a>
+            </div>
+            <br />
+            <br />
+            <table id="tblTable" class="table table-hover table-bordered table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            <h5 class="text-dark">  Name</h5>
+                        </th>
+                        <th scope="col">
+                            <h5 class="text-dark"> ISBN </h5>
+                        </th>
+                        <th scope="col">
+                            <h5 class="text-dark"> Price </h5>
+                        </th>
+                        <th scope="col">
+                            <h5 class="text-dark"> Category </h5>
+                        </th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+               
+            </table>
+            <br />
+            <hr />
+            <div class="col-6 text-end">
+                <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-primary">
+                    <i class="bi bi-back"></i>   Back To Home
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/Product.js"></script>
+}
+
+

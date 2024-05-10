@@ -1,0 +1,270 @@
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\appsettings.Development.json
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\appsettings.json
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.staticwebassets.runtime.json
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.exe
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Azure.Core.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Azure.Identity.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Humanizer.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.CodeDom.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Memory.Data.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.csproj.AssemblyReference.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.AssemblyInfoInputs.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.AssemblyInfo.cs
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.csproj.CoreCompileInputs.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.MvcApplicationPartsAssemblyInfo.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.RazorAssemblyInfo.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.RazorAssemblyInfo.cs
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets\msbuild.Resturant Pro.Microsoft.AspNetCore.StaticWebAssets.props
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets\msbuild.build.Resturant Pro.props
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resturant Pro.props
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resturant Pro.props
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets.pack.json
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets.build.json
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\staticwebassets.development.json
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\scopedcss\bundle\Resturant Pro.styles.css
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\scopedcss\projectbundle\Resturant Pro.bundle.scp.css
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.csproj.CopyComplete
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.dll
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\refint\Resturant Pro.dll
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.pdb
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.deps.json
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.runtimeconfig.json
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant Pro.pdb
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.genruntimeconfig.cache
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\ref\Resturant Pro.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.AccessData.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.Models.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.Utility.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.AccessData.pdb
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.Models.pdb
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Resturant_pro.Utility.pdb
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Build.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Common.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Configuration.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.LibraryModel.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Packaging.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.ProjectModel.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Protocol.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\NuGet.Versioning.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Composition.Convention.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Composition.Hosting.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Composition.Runtime.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Composition.TypedParts.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\af\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ar\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\az\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\bg\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\da\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\el\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fa\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\he\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\hr\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\hu\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\hy\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\id\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\is\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ku\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\lv\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\mt\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\nb\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\nl\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ro\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\sk\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\sl\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\sr\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\sv\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\uk\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\vi\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+G:\project\Resturant Pro\Resturant Pro\obj\Debug\net7.0\Resturant Pro.MvcApplicationPartsAssemblyInfo.cs
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\project\Resturant Pro\Resturant Pro\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll

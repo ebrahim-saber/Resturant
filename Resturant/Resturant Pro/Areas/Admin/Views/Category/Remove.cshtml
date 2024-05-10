@@ -1,0 +1,46 @@
+﻿@model Resturant_pro.Models.Category
+@{
+    ViewData["Title"] = "Remove";
+}
+
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3">
+        <div class=" row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Remove Category</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post">
+
+            <div class="border p-3 mt-4">
+                
+                <div class="md-3">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" disabled class="form-control border-0 shadow" />
+                </div>
+                &nbsp;
+                <div class="md-3">
+                    <label asp-for="Displayorder"></label>
+                    <input asp-for="Displayorder" disabled class="form-control border-0 shadow" />
+                </div>
+                <br />
+                <hr />
+                <button type="submit" class="btn btn-outline-danger"> <i class="bi bi-x"></i> Remove </button>
+                &nbsp;
+                <a asp-action="Index" asp-controller="Category" class="btn btn-outline-secondary">
+                    <i class="bi bi-back"></i> Back To Category
+                </a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+
+}

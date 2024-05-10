@@ -1,0 +1,80 @@
+﻿@model List<Resturant_pro.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3">
+        <div class=" row">
+            <div class="col-12 text-center">
+                <h1 class="text-white py-2"> Category</h1>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pt-4">
+
+
+            <div class="col-6 text-primary">
+                <h3> List Category</h3>
+            </div>
+            <div class=" col-6 text-end ">
+                <a asp-controller="Category" asp-action="New" class="btn btn-primary">
+                    <i class="bi bi-plus"></i> Add New Category
+                </a>
+            </div>
+            <br />
+            <hr />
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">
+                            <h5 class="text-dark"> Categors Name</h5>
+                        </th>
+                        <th scope="col">
+                            <h5 class="text-dark"> Display Order </h5>
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var list in Model)
+                    {
+                        <tr class="table-active">
+                            <td>
+                                @list.Name
+                            </td>
+                            <td>
+                                @list.Displayorder
+                            </td>
+
+                            <td>
+                                <a asp-controller="Category" asp-action="Edit" asp-route-Id="@list.Id" class="btn btn-outline-success">
+                                    <i class="bi bi-feather"></i> Edit
+                                </a>
+
+                                &nbsp;
+
+                                <a asp-controller="Category" asp-action="Remove" asp-route-Id="@list.Id" class="btn btn-outline-danger">
+                                    <i class="bi bi-x"></i>  Remove
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <br />
+            <hr />
+            <div class="col-6 text-end">
+                <a asp-area="Customer" asp-controller="Home" asp-action="Index" class="btn btn-primary">
+                    <i class="bi bi-back"></i>   Back To Home
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
